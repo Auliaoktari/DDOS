@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : Aulia Okatari"
+print "Author   : Aulia Oktari"
 print "You Tube : https://www.youtube.com/c/HA-MRX"
 print "github   : https://github.com/Auliaokatri"
 print "Facebook : https://www.facebook.com/Aulia.oktari77"
